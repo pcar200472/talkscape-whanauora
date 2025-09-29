@@ -2,6 +2,7 @@
   "name": "talkscape-whanauora",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://pcar200472.github.io/talkscape-whanauora",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
