@@ -1,4 +1,7 @@
-html, body, #root { height: 100%; }
+/* Minimal base styles. Tailwind comes from CDN in public/index.html */
+html, body, #root {
+  height: 100%;
+}
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
